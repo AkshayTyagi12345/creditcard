@@ -1,4 +1,4 @@
-Using - DVC and Coockiecutter - creditcardAnaysis 
+DVC and Coockiecutter - creditcardAnaysis 
 ==============================
 
 A credit card fraud detection project
